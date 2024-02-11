@@ -1,0 +1,3 @@
+__pycache__ is a directory that Python uses to cache compiled bytecode files (.pyc) to improve the startup performance 
+of Python programs. When a Python source file (with a .py extension) is imported or executed, Python checks if there is a
+corresponding .pyc file in the __pycache__ directory.
